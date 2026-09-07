@@ -8,7 +8,6 @@ A simple console-based Student Management System built using Core Java.
 - Display Students
 - Update Student
 - Delete Student
-- Search Student
 - Exit Program
 - Menu-driven console interface
 
